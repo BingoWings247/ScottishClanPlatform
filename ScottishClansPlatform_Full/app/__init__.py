@@ -1,0 +1,1 @@
+# Initializes Flask app, DB, login manager

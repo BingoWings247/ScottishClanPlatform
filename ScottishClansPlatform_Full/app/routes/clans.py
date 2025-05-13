@@ -1,0 +1,1 @@
+# Clan directory and detail views
