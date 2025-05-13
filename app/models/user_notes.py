@@ -1,0 +1,1 @@
+# Notes table with visibility
